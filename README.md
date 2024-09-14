@@ -10,3 +10,4 @@ This is a system that helps a student to determine his or her progress toward me
 - Open the system using "java Driver" command.
 - The result of the search will be displayed in the Terminal
 - You can adjust the data of completed course by changing the information in "finishedcourses.txt" file
+- Exit program by pressing Ctr + C
